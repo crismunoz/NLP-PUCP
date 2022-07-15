@@ -15,7 +15,6 @@
     </tbody>
 </table>
 
----
 
 ## Introducción
 Cantidades enormes de información relevante para las ciencias sociales son producidas diariamente, en reportes de organizaciones, tweets, periódicos, redes sociales, entre otros. Extraer información útil de estas grandes cantidades de texto es una tarea que requiere conocer los principios de procesamiento de texto como análisis de datos y de inteligencia artificial. En este taller se proporcionarán estos fundamentos con un enfoque aplicado a las ciencias sociales. En particular, se aplicará lo aprendido a la extracción de información desde cientos de reportes de la contraloría y de sentencias judiciales para producir información sobre corrupción en el Perú.
